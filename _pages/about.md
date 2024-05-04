@@ -22,24 +22,25 @@ redirect_from:
 
 I am Wenyu Li, you can also call me Wind. I am now a third year undergraduate of South China University of Technology at Guangzhou, China, and you can find my CV [here](/WenyuLi_CV.pdf).
 
-My research has primarily centered on information retrieval and text comprehension, leveraging advanced NLP techniques to bridge interdisciplinary domains. As I deepen my exploration of Large Language Models (LLMs), my goal is to expand my research to encompass a broader spectrum of LLM applications, moving beyond the realms of information understanding and retrieval. 
+Currently, i'm working with ProfHuiping Zhuang at the South China University of Technology, focusing on Class-incremental Learning. l am also interested in Knowledge Distillation and Video Understanding.
 
-<strong><span style="color:red; font-size:larger;">Sincerely looking for 25fall Ph.D position!</span></strong>
+<strong><span style="color:red; font-size:larger;">Sincerely looking for 26fall Ph.D position!</span></strong>
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 I will start a new journey visiting [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) at Tsinghua University!
 - *2024.04*: &nbsp;🎉🎉 Our paper *Generating Diverse Criteria On-the-Fly to Improve Pointwise LLM Rankers* has been put on [Arxiv](https://arxiv.org/abs/2404.11960), welcome to have a look!
-- *2024.03*: &nbsp;🎉🎉 My first paper *Zero-shot Explainable Mental Health Analysis on Social Media by Incorporating Mental Scales* has been <span style="color:red;">accepted by The Web Conference (WWW) 2024</span> as Short Paper!
 - *2023.07*: &nbsp;🎉🎉 I will start visiting [Prof. Yue Zhang](https://frcchang.github.io/) at Westlake University!
 - *2023.06*: &nbsp;🎉🎉 I have been granted my first [China patent](https://patents.google.com/patent/CN110413126B/en?oq=CN110%2c413%2c126+B)!
 - *2023.05*: &nbsp;🎉🎉 Our project *"Design of a Depression Risk Assessment System Based on Psychological Scales and AIGC Large Models"* secured a National Project Approval under the China College Students' Innovation and Entrepreneurship Training Program!
 - *2023.03*: &nbsp;🎉🎉 Get the Future Innovation Award of Future Technology Taihu Innovation Award <span style="color:red;">(Top 3%)</span>!
 - *2023.03*: &nbsp;🎉🎉 Get the First class Science and Technology Innovation Award of Future Technology Taihu Innovation Award <span style="color:red;">(Top 3%)</span>!
-- *2023.01*: &nbsp;🎉🎉 Get the First Prize of Asia and Pacific Mathematical Contest in Modeling (APMCM) <span style="color:red;">(Top 5%)</span>!
-- *2022.01*: &nbsp;🎉🎉 Our project *"Depression Tendency Analysis Chatbot Based on WeChat Official Accounts"* secured a Guangdong Province Science and Technology Innovation Strategic Special Fund Project!
+- *2023.01*: &nbsp;🎉🎉 Get the FirMathematical Contest In ModelingCertificate of Achievement <span style="color:red;">(Top 5%)</span>!
+- *2023.01*: &nbsp;🎉🎉 Get the Meritorious Winner of American Mathematical Contest In Modeling(MCM) <span style="color:red;"></span>!
 
+- *2022.01*: &nbsp;🎉🎉 Our project *"Depression Tendency Analysis Chatbot Based on WeChat Official Accounts"* secured a Guangdong Province Science and Technology Innovation Strategic Special Fund Project!
+- *2023.05*: &nbsp;🎉🎉 Our project *"Design of a Depression Risk Assessment System Based on Psychological Scales and AIGC Large Models"* secured a National Project Approval under the China College Students' Innovation and Entrepreneurship Training Program!
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024 Under Review</div><img src='images/COLM24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

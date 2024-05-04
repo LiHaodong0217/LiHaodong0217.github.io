@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wenyu Li"
-description              : "2021 - present"
-repository               : "w-y-li/w-y-li.github.io"
+title                    : "Haodong Li 李浩东"
+description              : "2022 - present"
+repository               : "LiHaodong0217/LiHaodong0217.github.io" 
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wenyu Li"
+  name             : "Haodong Li 李浩东"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "South China University of Technology"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=teVrU84AAAAJ&hl"
-  email            : "wenyulilwy@gmail.com"
+  email            : "3196859347@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "w-y-li"
+  github           : "LiHaodong0217"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0009-2792-4303" # e.g., "https://orcid.org/xxxx"
+  orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
